@@ -9,7 +9,7 @@
     <file path="/plugin.yml" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391687608075" ignored="false" />
     <file path="$PROJECT_DIR$/../TokenAPI_Dependant/.idea/workspace.xml" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391357470848" ignored="false" />
     <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/utils/ConfigReader.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391624598799" ignored="false" />
-    <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/resources/config.yml" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391594827219" ignored="false" />
+    <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/resources/config.yml" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391699230936" ignored="false" />
     <file path="/config.yml" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391590984733" ignored="false" />
     <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/objects/CategoryObject.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391411815612" ignored="false" />
     <file path="/CategoryObject.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391411815612" ignored="false" />
@@ -35,8 +35,8 @@
     <file path="/InventoryListener.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391591937404" ignored="false" />
     <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/events/InventoryListener.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391592310637" ignored="false" />
     <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/engine/EloManager.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391587477689" ignored="false" />
-    <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/events/CombatListener.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391636859972" ignored="false" />
-    <file path="/CombatListener.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391627846771" ignored="false" />
+    <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/events/CombatListener.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391693803098" ignored="false" />
+    <file path="/CombatListener.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391693803098" ignored="false" />
     <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/engine/RunnabelManager.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391510238529" ignored="false" />
     <file path="/RunnabelManager.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391510235650" ignored="false" />
     <file path="$PROJECT_DIR$/../KitPvPReloaded/src/main/java/co/mccn/kitpvp/engine/RunnableManager.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391635916681" ignored="false" />
@@ -54,6 +54,7 @@
     <file path="$PROJECT_DIR$/../GUIShop/src/main/java/co/mccn/guishop/managers/EventsManager.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391626865321" ignored="false" />
     <file path="/DatabaseConnector.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391642638647" ignored="false" />
     <file path="$PROJECT_DIR$/../Ticket/src/main/java/co/mccn/ticket/managers/DatabaseConnector.java" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391642641505" ignored="false" />
+    <file path="/LICENSE" changelist="df5dd07e-f8ef-4246-875f-9472a6203a0a" time="1391701218967" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,10 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="22" selection-start="476" selection-end="476" vertical-scroll-proportion="0.2578125">
+            <state line="24" column="21" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -145,15 +146,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="49" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1391687609162" expanded="true" signature="103:128" placeholder="authors:" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LICENSE" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LICENSE" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="8" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
+            <state line="5" column="39" selection-start="198" selection-end="198" vertical-scroll-proportion="0.13480392">
               <folding />
             </state>
           </provider>
@@ -173,8 +176,8 @@
         <option value="$PROJECT_DIR$/src/main/java/co/mccn/reloadpermissions/ReloadPermissiosn.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/mccn/reloadpermissions/ReloadPermissions.java" />
         <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
-        <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/LICENSE" />
       </list>
     </option>
   </component>
@@ -186,9 +189,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
-    <option name="width" value="640" />
-    <option name="height" value="984" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -455,7 +459,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="0" width="640" height="984" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -475,7 +479,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3183391" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14910859" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -559,7 +563,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="56" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1391687609162" expanded="true" signature="103:128" placeholder="authors:" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -582,7 +588,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="56" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1391687609162" expanded="true" signature="103:128" placeholder="authors:" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -605,7 +613,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="56" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1391687609162" expanded="true" signature="103:128" placeholder="authors:" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -641,23 +651,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="49" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1391687609162" expanded="true" signature="103:128" placeholder="authors:" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="476" selection-end="476" vertical-scroll-proportion="0.2578125">
+        <state line="24" column="21" selection-start="1435" selection-end="1435" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="39" selection-start="198" selection-end="198" vertical-scroll-proportion="0.13480392">
           <folding />
         </state>
       </provider>
