@@ -1,0 +1,9 @@
+name: ReloadPermissions
+main: co.mccn.reloadpermissions.ReloadPermissions
+version: 1.0
+author: aaomidi
+authors: [aaomidi, Me4502]
+commands:
+  reloadperms:
+    description: Reload Permissions
+    usage: /reloadperms
