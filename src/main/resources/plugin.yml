@@ -1,7 +1,6 @@
-name: ReloadPermissions
-main: co.mccn.reloadpermissions.ReloadPermissions
-version: 1.0
-author: aaomidi
+name: ${project.artifactId}
+main: ${project.groupId}.${project.artifactId}
+version: ${project.version}
 authors: [aaomidi, Me4502]
 commands:
   reloadperms:
